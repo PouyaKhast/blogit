@@ -11,7 +11,7 @@ Blogit lets you add a blog to your Ruby on Rails application in just a few secon
 
 ## Installation
 
-Add these to your Gemfile
+ these to your Gemfile
 
 ``` ruby
 gem "blogit"
